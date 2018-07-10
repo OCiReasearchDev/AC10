@@ -1,2 +1,3 @@
 # AC10
-AC10 Releated scripts
+AC10 database Releated scripts.
+Most should be run in SQL.
